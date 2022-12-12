@@ -1,0 +1,2 @@
+this location doest exist
+PS C:\Users\poki\Desktop\vs coding\python> & C:/Users/poki/AppData/Local/Microsoft/WindowsApps/python3.10.exe "c:/Users/poki/Desktop/vs coding/python/29 import os.py"
